@@ -12,6 +12,6 @@
 - Método de ataque: ``` Site Cloner ```
 - URL para usado para a clonagem: http://www.facebook.com
 
-### Os resultados estão na pasta "Imagens"
+### Os resultados estão nas imagens anexadas.
 
 (É importante notar que no momento em que realizei esse projeto 08/2025 o único navegador que permitiu que a captura de dados fosse feita foi o Internet Explorer).
